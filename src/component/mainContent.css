@@ -1,0 +1,154 @@
+.mainContent {
+    /* clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0); */
+    margin-top: 80px;
+    /* background-color: #1d252c; */
+    overflow-x: hidden;
+}
+
+.bgImage {
+    background-image: url("../assets//background11.png");
+    color: aliceblue;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    filter: blur(20px);
+    opacity: 3px;
+
+}
+
+.bgImage::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: inherit;
+    filter: blur(5px);
+    /* Adjust the blur amount as needed */
+    z-index: -1;
+}
+
+.left {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+
+.title {
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 100px;
+    position: relative;
+    top: 60px;
+    letter-spacing: 4px;
+
+}
+
+.textSpin {
+    color: #FF7A00;
+}
+
+.subTitle1 {
+    position: relative;
+    top: 150px;
+}
+
+.subTitle {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: gray;
+    margin-left: 100px;
+    letter-spacing: 2px;
+}
+
+.form {
+    position: relative;
+    top: 150px;
+}
+
+.inputForm {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.nameInput {
+    width: 200px;
+    height: 66px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border-right: 1px solid gray;
+    padding-left: 30px;
+    margin: 1px;
+    font-size: 15px;
+
+}
+
+.nameInput::placeholder {
+    position: relative;
+    left: 20px;
+    font-size: 18px;
+    text-align: left;
+    padding-left: -10px;
+
+}
+
+.emailInput {
+    width: 200px;
+    height: 66px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border-right: 1px solid gray;
+    padding-left: 30px;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.emailInput::placeholder {
+    position: relative;
+    left: 20px;
+    font-size: 18px;
+}
+
+.GetStart {
+    margin-left: 10px;
+    background-color: #FF7A00;
+    width: 180px;
+    height: 70px;
+    border-radius: 7px;
+    font-size: 19px;
+    cursor: pointer;
+    border: none;
+}
+
+.Detail {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+    position: absolute;
+    top: 158%;
+    right: 370px;
+    cursor: pointer;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.creditCard {
+    position: relative;
+    left: 200px;
+    top: 215px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+}

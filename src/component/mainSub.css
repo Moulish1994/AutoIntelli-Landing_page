@@ -1,0 +1,114 @@
+.Main {
+    margin-left: 600px;
+    margin-top: 80px;
+}
+
+.MainTitle {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+}
+
+.line {
+    background-color: #ff40b4;
+    width: 60%;
+    height: 0.1px;
+    position: relative;
+    right: 400px;
+    top: 50px;
+}
+
+.lines {
+    background-color: #ff40b4;
+    width: 60%;
+    height: 0.1px;
+    position: relative;
+    top: 150px;
+    right: 400px;
+}
+
+.content {
+    position: relative;
+    top: 120px;
+    left: -400px;
+    font-family: "Roboto", sans-serif;
+}
+
+.RealTitle {
+    font-size: 18px;
+}
+
+.Correlate {
+    position: relative;
+    top: 15px;
+    line-height: 25px;
+}
+
+.orangeLine {
+    background-color: #ff8300;
+    width: 60%;
+    height: 0.1px;
+    position: relative;
+    top: -115px;
+    left: 250px;
+}
+
+.contents {
+    position: relative;
+    top: -60px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 250px;
+}
+
+.RealTitles {
+    font-size: 18px;
+}
+
+.Correlates {
+    position: relative;
+    top: 15px;
+    line-height: 25px;
+
+}
+
+.orangeLines {
+    background-color: #ff8300;
+    width: 60%;
+    height: 0.1px;
+    position: relative;
+    bottom: -5px;
+    left: 250px;
+}
+
+.content1 {
+    position: relative;
+    top: 230px;
+    left: -400px;
+    font-family: "Roboto", sans-serif;
+}
+
+.RealTitle1 {
+    font-size: 18px;
+}
+
+.Correlate1 {
+    position: relative;
+    top: 15px;
+    line-height: 25px;
+}
+
+.contents2 {
+    position: relative;
+    top: 90px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 250px;
+}
+
+.RealTitles2 {
+    font-size: 18px;
+}
+
+.Correlates2 {
+    position: relative;
+    top: 15px;
+    line-height: 25px;
+}

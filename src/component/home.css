@@ -1,0 +1,193 @@
+.home {
+    /* clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0); */
+
+}
+
+/* 
+.title {
+    margin-top: 40px;
+    position: relative;
+    left: 180px;
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    line-height: 68px;
+    font-weight: 600;
+}
+
+
+
+.inputForm {
+    display: flex;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+.nameInput {
+    width: 200px;
+    height: 66px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border-right: 1px solid gray;
+    padding-left: 30px;
+    font-size: 15px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+}
+
+.nameInput::placeholder {
+    position: relative;
+    left: 20px;
+    font-size: 18px;
+    text-align: left;
+    padding-left: -10px;
+
+}
+
+.emailInput {
+    width: 200px;
+    height: 66px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border-right: 1px solid gray;
+    padding-left: 30px;
+    font-size: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.emailInput::placeholder {
+    position: relative;
+    left: 20px;
+    font-size: 18px;
+}
+
+.GetStart {
+    margin-left: 10px;
+    background-color: #1ce783;
+    width: 180px;
+    height: 70px;
+    border-radius: 7px;
+    font-size: 19px;
+    cursor: pointer;
+    border: none;
+}
+
+.SignupWith {
+    color: gray;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+
+.SocialIcons {
+    display: flex;
+    position: relative;
+    left: 250px;
+    top: -30px;
+    cursor: pointer;
+}
+
+.google {
+    background-color: #141a1f;
+    width: 70px;
+    height: 60px;
+    margin-top: -20px;
+    margin-left: -115px;
+    border-radius: 5px;
+}
+
+.google .GIcon {
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: black;
+    margin-top: 18px;
+}
+
+.github {
+    background-color: #141a1f;
+    width: 70px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+.GitIcon {
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 18px;
+    color: #ffffff;
+}
+
+.discord {
+    background-color: #141a1f;
+    width: 70px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+.DisIcon {
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: #141a1f;
+    margin-top: 18px;
+    color: #ffffff;
+}
+
+.bitBucket {
+    background-color: #141a1f;
+    width: 70px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+.BitIcon {
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: #141a1f;
+    margin-top: 18px;
+    color: #ffffff;
+}
+
+.Detail {
+    color: gray;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 180px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.creditCard {
+    margin-left: 350px;
+    margin-top: -65px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.image {
+    float: right;
+    position: relative;
+    top: -600px;
+}
+
+.Micro {
+    width: 650px;
+    left: -180px;
+}
+
+.WhyNewRelic {
+    position: relative;
+    top: 100px;
+} */
